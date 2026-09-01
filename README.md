@@ -68,27 +68,32 @@ Designed and tested simple electronic circuit boards with Altium Designer, and w
 
 Production platforms built at Pardazeshgaran Sepehr, all under active development. Source code lives in private company repositories.
 
-### 🏥 Salam Operator — National Healthcare Platform
+### 🔐 MSSP — Managed Security Services Platform 🔗 <https://mssp.inhso.ir>
+A platform for an Iranian managed security services provider.
+Sole front-end developer: designed the full interface in Figma and built the entire front-end, including an installable PWA setup and data visualisation views.
+`React` `React Router` `Vite` `Tailwind CSS` `Framer Motion` `Recharts` `PWA`
+
+### 🏥 Salam Operator — National Healthcare Platform 🔗 <https://inhso.ir>
 One of Iran's official national health operator platforms, under the Ministry of Health.
 Built telemedicine screens for online medical consultations, video and text-based appointment scheduling, and patient health record management.
 `React` `TypeScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS`
 
-### 📊 Payesh — Occupational Health Monitoring System
+### 📊 Payesh — Occupational Health Monitoring System 🔗 <https://payesh.inhso.ir>
 A multi-tenant platform serving organizations and medical centers through role-based dashboards.
 Implemented specialized medical form modules (organ-specific evaluations, audiometry, spirometry, lab panels) and multi-step onboarding wizards with dynamic, cascading form logic.
 `React` `TypeScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS`
 
-### 🐾 PicoPet — Bilingual Veterinary Healthcare Platform
+### 🐾 PicoPet — Bilingual Veterinary Healthcare Platform 🔗 <https://picopet.ir>
 A Persian/English platform connecting pet owners with veterinarians for appointment scheduling, digital prescriptions and vaccination tracking.
 Worked on clinic and doctor discovery, visit history and role-based dashboards, plus full RTL/LTR internationalization.
 `React` `TypeScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS` `Framer Motion`
 
-### 💊 Sepehr Online Pharmacy System
+### 💊 Sepehr Online Pharmacy System 🔗 <https://pharmacy.isikato.ir/drgharaee>
 A pharmacy management platform covering drug inventory and expired-medication tracking, multi-insurance prescription processing, and an online storefront.
 Joined the project mid-development: redesigned pharmacist and admin interfaces, refactored legacy screens into a reusable component architecture, and fixed defects across the ordering flow.
 `React` `JavaScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS` `Ant Design`
 
-### 🩺 Sepehr Salamat — Medical Centers Management System
+### 🩺 Sepehr Salamat — Medical Centers Management System 🔗 <https://inhs.isikato.ir>
 A management system for healthcare centers, covering insurance-backed prescription workflows, appointment scheduling and patient records.
 Joined the project mid-development: rebuilt parts of the doctor, receptionist and patient panels as shared components, handled UI redesign work and resolved defects across role-specific workflows.
 `React` `JavaScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS` `Ant Design`
