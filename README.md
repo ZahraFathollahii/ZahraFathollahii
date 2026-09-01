@@ -120,8 +120,7 @@ Joined the project mid-development: rebuilt parts of the doctor, receptionist an
 ## 🤝 Let's Connect
 
 - LinkedIn: <https://www.linkedin.com/in/zahra-fathollahi>
-- Email: <zahrafathollahi1379kp@gmail.com>
-
+- 
 ---
 
 ⭐ Thanks for visiting my profile!
