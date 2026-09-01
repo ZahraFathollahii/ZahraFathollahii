@@ -51,7 +51,7 @@ Currently working on real-world web applications with React, TypeScript and mode
 
 ## 💼 Experience
 
-### Front-End Developer — Pardazeshgaran Sepehr, Tehran *(Sep 2023 – Present)*
+### Front-End Developer — Pardazeshgaran Sepehr, Tehran *(Jul 2023 – Present)*
 Started with a 3-month front-end internship focused on React and Redux fundamentals, then moved into a full-time role on production UI projects.
 Built multiple internal and client-facing web applications with React, TypeScript, Tailwind CSS and Ant Design, and took part in the UI/UX design process using Figma.
 
