@@ -97,7 +97,7 @@ Joined the project mid-development: rebuilt parts of the doctor, receptionist an
 
 ## 🎓 Education
 
-- **M.Sc. in Software Engineering** *(2022 – 2026)* — Islamic Azad University, Science and Research Branch — GPA 18.50 / 20
+- **M.Sc. in Software Engineering** — Islamic Azad University, Science and Research Branch — GPA 18.50 / 20
   - Thesis: *Designing a Pervasive Agent-Based System for the Smart School Environment* — a multi-agent, edge-oriented architecture documented with the 4+1 view model, evaluated with ATAM, and formally verified using CSP.
 - **B.Sc. in Software Engineering** — Islamic Azad University, West Tehran Branch — completed in 3.5 years, GPA 17.90 / 20
 
