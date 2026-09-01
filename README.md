@@ -63,18 +63,6 @@ Designed and tested simple electronic circuit boards with Altium Designer, and w
 
 ---
 
-## 📌 Featured Projects
-
-<!-- هر پروژه‌ای که روی گیت‌هاب داری یا لینک عمومی داره، این‌جا اضافه کن -->
-
-### 🧩 Project Name 🔗 https://example.com
-One short line about what it does and what you built with it.
-
-### 🧩 Project Name 🔗 https://example.com
-One short line about what it does and what you built with it.
-
----
-
 ## 🎓 Education
 
 - **M.Sc. in Software Engineering** *(2022 – 2026)* — Islamic Azad University, Science and Research Branch — GPA 18.50 / 20
