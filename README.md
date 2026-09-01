@@ -38,6 +38,7 @@ Currently working on real-world web applications with React, TypeScript and mode
 - Vite
 - i18next
 - REST API
+- PWA
 
 ### Tools
 - Git & GitLab
@@ -63,6 +64,37 @@ Designed and tested simple electronic circuit boards with Altium Designer, and w
 
 ---
 
+## 💼 Selected Work
+
+Production platforms built at Pardazeshgaran Sepehr, all under active development. Source code lives in private company repositories.
+
+### 🏥 Salam Operator — National Healthcare Platform
+One of Iran's official national health operator platforms, under the Ministry of Health.
+Built telemedicine screens for online medical consultations, video and text-based appointment scheduling, and patient health record management.
+`React` `TypeScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS`
+
+### 📊 Payesh — Occupational Health Monitoring System
+A multi-tenant platform serving organizations and medical centers through role-based dashboards.
+Implemented specialized medical form modules (organ-specific evaluations, audiometry, spirometry, lab panels) and multi-step onboarding wizards with dynamic, cascading form logic.
+`React` `TypeScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS`
+
+### 🐾 PicoPet — Bilingual Veterinary Healthcare Platform
+A Persian/English platform connecting pet owners with veterinarians for appointment scheduling, digital prescriptions and vaccination tracking.
+Worked on clinic and doctor discovery, visit history and role-based dashboards, plus full RTL/LTR internationalization.
+`React` `TypeScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS` `Framer Motion`
+
+### 💊 Sepehr Online Pharmacy System
+A pharmacy management platform covering drug inventory and expired-medication tracking, multi-insurance prescription processing, and an online storefront.
+Joined the project mid-development: redesigned pharmacist and admin interfaces, refactored legacy screens into a reusable component architecture, and fixed defects across the ordering flow.
+`React` `JavaScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS` `Ant Design`
+
+### 🩺 Sepehr Salamat — Medical Centers Management System
+A management system for healthcare centers, covering insurance-backed prescription workflows, appointment scheduling and patient records.
+Joined the project mid-development: rebuilt parts of the doctor, receptionist and patient panels as shared components, handled UI redesign work and resolved defects across role-specific workflows.
+`React` `JavaScript` `Redux Toolkit` `TanStack Query` `Tailwind CSS` `Ant Design`
+
+---
+
 ## 🎓 Education
 
 - **M.Sc. in Software Engineering** *(2022 – 2026)* — Islamic Azad University, Science and Research Branch — GPA 18.50 / 20
@@ -73,6 +105,7 @@ Designed and tested simple electronic circuit boards with Altium Designer, and w
 
 ## 📚 Currently Learning
 
+- Next.js
 - Advanced React patterns & performance optimization
 - Testing (unit & component testing)
 - Modern front-end architecture
