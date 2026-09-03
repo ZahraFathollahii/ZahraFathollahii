@@ -42,9 +42,6 @@ Currently working on real-world web applications with React, TypeScript and mode
 
 ### Tools
 - Git & GitLab
-- VS Code
-- Chrome DevTools
-- Command Line
 - Figma
 
 ---
