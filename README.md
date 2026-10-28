@@ -97,6 +97,15 @@ Joined the project mid-development: rebuilt parts of the doctor, receptionist an
 
 ---
 
+## 🚀 Personal Projects
+
+### 🍄 GanoTik — Health & Wellness E-commerce Platform 🔗 <https://ganotic.ir>
+My own online store for health and wellness products, designed and built end to end: storefront, admin panel, backend and supplier catalog sync. Source code is private.
+Next.js storefront as an installable, SEO-focused PWA; a React admin panel for products and orders; a NestJS API with background workers that keep supplier prices and stock in sync every day; all in a TypeScript monorepo with Docker-based deployment.
+`Next.js` `React` `TypeScript` `NestJS` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Tailwind CSS` `TanStack Query` `PWA` `Docker`
+
+---
+
 ## 🎓 Education
 
 - **M.Sc. in Software Engineering** — Islamic Azad University, Science and Research Branch — GPA 18.70 / 20
