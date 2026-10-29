@@ -1,6 +1,7 @@
 # Hi 👋, I'm Zahra Fathollahi
 
 ### Front-End Developer | React • TypeScript • Tailwind CSS • Ant Design
+### 🌿 Founder of [Ganotic](https://ganotic.ir)
 
 Building responsive, intuitive and production-ready user interfaces.
 Currently working on real-world web applications with React, TypeScript and modern component-based architecture.
@@ -10,6 +11,7 @@ Currently working on real-world web applications with React, TypeScript and mode
 ## 👩‍💻 About Me
 
 - 💼 Front-End Developer at **Pardazeshgaran Sepehr** (Tehran) since 2023
+- 🌿 Founder of **Ganotic** — an online store for natural wellness products 🔗 <https://ganotic.ir>
 - ⚛️ Focused on React, TypeScript and scalable UI architecture
 - 🎨 Comfortable in the design process too — Figma, responsive layouts, UI/UX collaboration
 - 🤖 Former robotics instructor & national competition judge (University of Tehran, 2021–2023)
@@ -99,8 +101,8 @@ Joined the project mid-development: rebuilt parts of the doctor, receptionist an
 
 ## 🚀 Personal Projects
 
-### 🍄 GanoTik — Health & Wellness E-commerce Platform 🔗 <https://ganotic.ir>
-My own online store for health and wellness products. Source code is private.
+### 🍄 Ganotic — Founder · Health & Wellness E-commerce Platform 🔗 <https://ganotic.ir>
+My own online store for health and wellness products, live since 2026. I founded it and lead the product, design and development. Source code is private.
 Designed the interface and built the front-end: a Next.js storefront as an installable, SEO-focused PWA with a fully RTL Persian UI, a React admin panel for managing products and orders, and a shared Tailwind-based component library with design tokens used across both apps.
 `Next.js` `React` `TypeScript` `Tailwind CSS` `TanStack Query` `React Router` `Vite` `i18next` `PWA`
 
@@ -126,6 +128,8 @@ Designed the interface and built the front-end: a Next.js storefront as an insta
 ## 🤝 Let's Connect
 
 - LinkedIn: <https://www.linkedin.com/in/zahra-fathollahi>
+- Website: <https://ganotic.ir>
+
 ---
 
 ⭐ Thanks for visiting my profile!
