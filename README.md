@@ -101,6 +101,12 @@ Joined the project mid-development: rebuilt parts of the doctor, receptionist an
 
 ## 🚀 Personal Projects
 
+### 🌐 Personal Portfolio 🔗 <https://zahrafathollahi.ir>
+My bilingual (Persian/English) portfolio site — designed and built from scratch, open source.
+Full RTL/LTR support, Jalali dates for Persian via the native `Intl` API, dark/light themes, and accessibility-first components (100 Lighthouse accessibility score). Statically exported and deployed to GitHub Pages with a custom domain, with CI running lint, type checks, unit tests and an automated translation-key parity check on every push.
+Source: <https://github.com/ZahraFathollahii/portfolio>
+`Next.js` `React` `TypeScript` `Tailwind CSS` `i18next` `Vitest` `GitHub Actions`
+
 ### 🍄 Ganotic — Founder · Health & Wellness E-commerce Platform 🔗 <https://ganotic.ir>
 My own online store for health and wellness products, live since 2026. I founded it and lead the product, design and development. Source code is private.
 Designed the interface and built the front-end: a Next.js storefront as an installable, SEO-focused PWA with a fully RTL Persian UI, a React admin panel for managing products and orders, and a shared Tailwind-based component library with design tokens used across both apps.
@@ -127,8 +133,9 @@ Designed the interface and built the front-end: a Next.js storefront as an insta
 
 ## 🤝 Let's Connect
 
+- 🌐 Portfolio: <https://zahrafathollahi.ir>
 - LinkedIn: <https://www.linkedin.com/in/zahra-fathollahi>
-- Website: <https://ganotic.ir>
+- Ganotic: <https://ganotic.ir>
 
 ---
 
