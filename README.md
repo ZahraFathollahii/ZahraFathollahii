@@ -102,7 +102,7 @@ Joined the project mid-development: rebuilt parts of the doctor, receptionist an
 ## 🚀 Personal Projects
 
 ### 🌐 Personal Portfolio 🔗 <https://zahrafathollahi.ir>
-My bilingual (Persian/English) portfolio site — designed and built from scratch, open source.
+My bilingual (Persian/English) portfolio site — designed and built from scratch.
 Full RTL/LTR support, Jalali dates for Persian via the native `Intl` API, dark/light themes, and accessibility-first components (100 Lighthouse accessibility score). Statically exported and deployed to GitHub Pages with a custom domain, with CI running lint, type checks, unit tests and an automated translation-key parity check on every push.
 Source: <https://github.com/ZahraFathollahii/portfolio>
 `Next.js` `React` `TypeScript` `Tailwind CSS` `i18next` `Vitest` `GitHub Actions`
