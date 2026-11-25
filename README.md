@@ -43,5 +43,5 @@ Front-end work across 15+ healthcare, pharmacy, insurance, and security products
 | Data | TanStack Query, Redux Toolkit, REST APIs, SSE, WebSockets |
 | UI & Visualization | Tailwind CSS, Ant Design, Framer Motion, React Flow, Recharts, i18next, Figma |
 | Architecture & Practices | SOLID Design Principles, Clean Code, Front-End Architecture, Design Systems, Web Performance, Agile (Scrum/Kanban) |
-| Testing & Tooling | Vitest, Jest, Git, GitHub Actions, GitLab, Vite, PWA, Service Workers |
-| Familiar with | Zustand, React Testing Library, Cypress, Material UI, Nx |
+| Testing & Tooling | Vitest, Git, GitHub Actions, GitLab, Vite, PWA, Service Workers |
+| Familiar with | Zustand, React Testing Library,Jest, Cypress, Material UI, Nx |
